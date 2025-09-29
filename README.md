@@ -50,6 +50,7 @@ This is the codes used to ranking with ROW_NUMBER ()
 select customer_ID, customer_names,region
  ,ROW_NUMBER() OVER(ORDER BY customer_names ASC) RNR from CUSTOMER; 
 Here there are the screen shoot of how the table arranged
+
 <img width="804" height="243" alt="image" src="https://github.com/user-attachments/assets/69771eb5-67ae-495a-86c6-3ab2f93ab46c" />
 
 
