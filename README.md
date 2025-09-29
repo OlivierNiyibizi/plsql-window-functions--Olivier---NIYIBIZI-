@@ -178,7 +178,8 @@ After using NTILE (4 we are going to use the other navigation which called
 CUME_DIST () as we use this function here we have the screen shoot of our table which shows it in good way 
 
 <img width="880" height="194" alt="image" src="https://github.com/user-attachments/assets/7276a368-d6b3-4386-8db3-1e76dd535761" />
----## step 6:: Results Analysis ##
+
+## step 6:: Results Analysis ##
 
 ## 1. Descriptive (What happened?) ##
 
@@ -200,6 +201,7 @@ The highest-spending customers (NTILE=1) are likely cooperatives or bulk buyers,
 Focus on expanding the sales of high-demand products like maize and beans, and launch promotions during low-demand months.
 Develop loyalty programs or bulk discounts for top-quartile customers to retain and grow their purchases.
 Plan targeted marketing and support strategies for February to reduce seasonal drops, such as offering subsidies or connecting farmers to ensure steady supply
+
 ## Step 7 – References ##
 
 1. MySQL 8.0 Documentation – Window Functions (Oracle, 2025).
