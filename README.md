@@ -19,6 +19,8 @@ For Inventory Management Department: the Data to validate and optimize regional 
 6.	## Database Schema
 
 7.	for the information related to customers will be stored in this table
+8.	<img width="471" height="211" alt="image" src="https://github.com/user-attachments/assets/21f25043-a1fe-4275-ad21-fc39d6b1f7fb" />
+
 
 Here there are table which store data from products
  
