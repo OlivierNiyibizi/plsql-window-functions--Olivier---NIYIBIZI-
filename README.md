@@ -1,9 +1,9 @@
 # plsql-window-functions--Olivier---NIYIBIZI-
 
 ## INTRODUCTION 
-**NAME:** Olivier NIYIBIZI
-**Id:** 28248
-**course:** DATABASE DEVELOPMENT WITH PL/SQL INSY 8311
+- **NAME:** Olivier NIYIBIZI
+- **Id:** 28248
+- **course:** DATABASE DEVELOPMENT WITH PL/SQL INSY 8311
 
 ---
    
