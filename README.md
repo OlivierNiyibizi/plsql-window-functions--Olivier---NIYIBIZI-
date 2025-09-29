@@ -79,6 +79,7 @@ By showing the image of ranking with using all categories hare there are screen 
 FOR THE FIRST WE JOINED CUSTOMER TABLES WITH TRANSACTIONS TABLE THIS IS HOW IT LOOKS LI
 <img width="790" height="256" alt="image" src="https://github.com/user-attachments/assets/deff3549-df0f-44bb-8400-b63c7aae22c2" />
 
+
 So after joining table we are going to the step of AGGREGATE
 Aggregate      FOR SUM () OF amount which are received in our company 
 This table sum the total amount but also grouped by  customer_id and product_id
