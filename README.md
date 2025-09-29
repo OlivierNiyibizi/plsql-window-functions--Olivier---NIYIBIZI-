@@ -1,6 +1,6 @@
 # plsql-window-functions--Olivier---NIYIBIZI-
 
-## problem definition 
+## step 1: Problem definition 
 
 The problem of business scenario is DATA Challenge Our analysis needs to identify the top 3 best-selling products by revenue within each sales region for the last quarter. The problem we have is that we have to rank products within their specific regions, not globally.  Also we need to calculate the total revenue of each product.
  Here there are the business context
@@ -41,6 +41,7 @@ select customer_ID, customer_names,region
  ,ROW_NUMBER() OVER(ORDER BY customer_names ASC) RNR from CUSTOMER; 
 Here there are the screen shoot of how the table arranged
 <img width="804" height="243" alt="image" src="https://github.com/user-attachments/assets/69771eb5-67ae-495a-86c6-3ab2f93ab46c" />
+
 
 For Ranking with using RANK ()
 This is the codes used to ranking with RANK ()
