@@ -31,10 +31,12 @@ For Inventory Management Department: the Data to validate and optimize regional 
 
 
 Here there are table which store data from products
+
 <img width="515" height="231" alt="image" src="https://github.com/user-attachments/assets/f0b100d5-ac81-45f5-9dbd-88629e4da4e1" />
 
  
 Also this is the table which show the information for transactions
+
 <img width="660" height="232" alt="image" src="https://github.com/user-attachments/assets/1a1b7d40-7c4b-4dd4-843b-8340e218d45f" />
 
 Here we have the image which shows the entity relationship of those three tables 
