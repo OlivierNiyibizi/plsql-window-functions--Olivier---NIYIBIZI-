@@ -9,6 +9,7 @@
    
 ## step 1: Problem definition 
 
+
 The problem of business scenario is DATA Challenge Our analysis needs to identify the top 3 best-selling products by revenue within each sales region for the last quarter. The problem we have is that we have to rank products within their specific regions, not globally.  Also we need to calculate the total revenue of each product.
  Here there are the business context
 Company Type: (Niyibizi Tech solutions) a multinational electronics retailer 
