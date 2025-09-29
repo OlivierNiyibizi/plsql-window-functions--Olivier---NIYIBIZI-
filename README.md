@@ -14,6 +14,15 @@ For Inventory Management Department: the Data to validate and optimize regional 
 1.	Top 5 products per region/quarter → RANK (): we use this to identify the best-selling electronics items in each region every quarter 
 2.	2. Running monthly sales totals → SUM () OVER (): we will use this to calculate cumulative monthly sales totals to truck growth.3.	Month-over-month revenue growth per product → we will apply LAG ()/LEAD () to compare each products revenue against the previous month and compare growth %
 4.	Customer segmentation by spend classify customers into 4 quartiles (25% groups) with NTILE (4) based on lifetime electronics purchases.
-5.	3-month moving average sales per product use → AVG () OVER () to smooth fluctuations in electronics sales trends 
+5.	3-month moving average sales per product use → AVG () OVER () to smooth fluctuations in electronics sales trends
+
+6.	## Database Schema
+
+7.	for the information related to customers will be stored in this table
+
+Here there are table which store data from products
+ 
+Also this is the table which show the information for transactions
+ 
 
 
